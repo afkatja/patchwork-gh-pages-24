@@ -15,11 +15,11 @@ layout: home
 </header>
 
 <div class="page-content">
+       {% site.index.length %}
   <div class="wrapper">
     <div class="home">
       <div class="post">
         {% for index in site.index %}
-        index.length
           <article class="post-content">
             {{ index.content | markdownify }}
           </article>
