@@ -1,12 +1,12 @@
 # Site settings
-title: Adrian's Profile
-email: hello@wheelhouse.io
+title: Katja Hollaar
+email: afkatja@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Learn to use GitHub pages with Wheelhouse.io and Patchwork!
-baseurl: "/project-gh-pages"
-url: "http://wheehouseio.github.io"
-twitter_username: WheelhouseIO
-github_username:  wheelhouseio
+  Example profile with wheelhouse for github patchwork
+baseurl: "/patchwork-gh-pages-24"
+url: "http://katjahollaar.github.io"
+twitter_username: afkatja
+github_username:  afkatja
 permalink: /blog/:year/:title/
 
 
