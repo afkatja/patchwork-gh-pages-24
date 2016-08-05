@@ -18,7 +18,7 @@ layout: home
   <div class="wrapper">
     <div class="home">
       <div class="post">
-       {{ site.index.length }}
+       {{ site.index }}
         {% for index in site.index %}
           <article class="post-content">
             {{ index.content | markdownify }}
