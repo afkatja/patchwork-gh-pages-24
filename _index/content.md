@@ -1,28 +1,18 @@
----
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
----
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+#### Katja Hollaar, software engineer with 5 years of experience
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+As a web development who made a shift from studying and teaching human language as a means of communication from linguistic, social and artistic points of view, and a passionate and inquisitive gooder always learning new (both human and programming) languages and techniques, and also mentoring others, I believe I can be a real asset in a multidisciplinary team offering new ideas and insights to help solve problems in creative and user friendly ways.
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
+I am extremely interested in projects that have impact via social change and that help make the world a better place.
 
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
+Ideally, I would love to combine the various skills I possess (language, communication, photography, analytical skills, and web development) in a hybrid role in a multidisciplinary team.
 
-#### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+#### Projects
+* Nederlandse Loterij
+* Schooltas
+* Denhaag.com
+* vangoghmuseum.nl audio guide
+* Staatsloterij.nl
+* pepper.nl
+* 9292.nl
